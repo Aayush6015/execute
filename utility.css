@@ -1,0 +1,116 @@
+#login-id{
+    margin: auto;
+    text-align: center;
+    /* width: 50%;
+    padding: 50px; */
+}
+#password{
+    margin: auto;
+    text-align: center;
+}
+#btn-login
+{
+    /* background-size: cover; */
+    /* justify-content: center;
+    align-items: center; */
+    background-color: rgb(205, 47, 73);
+    color: white;
+    border-radius: 14px;
+    font-size: 16px;
+    padding: 15px 30px;
+    
+    position: relative;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    
+    
+}
+/* submit button in log in part */
+/* .form-control{
+    
+}
+#form-make{
+    text-align: center;
+} */
+.btnprimary{
+    background-color: rgb(205, 47, 73);
+    color: white;
+    border-radius: 10px;
+    font-size: 16px;
+    padding: 15px 30px;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    
+}
+
+/* submit button in signup part */
+.mb-3{
+    color: white;
+    margin: auto;
+    /* text-align: center; */
+    
+}
+nav{
+    padding: 10px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navbar{
+    color: white;
+    display: flex;
+    flex-direction: row;
+    padding-left: 70%;
+    justify-content: space-between;
+}
+#red{
+background-color: rgb(250, 230, 235);
+    
+}
+#heading1{
+    color: white;
+}
+.mb-3 input{
+    border-radius: 8px;
+}
+#labels
+{
+    padding-left: 30%;
+}
+.form-control{
+ margin-left: 30%;
+}
+.labels{
+    margin-left: 30%;
+}
+#box
+{
+    /* box-sizing: border-box; */
+    background-color: white;
+    border-color: white;
+    /* border-style: solid; */
+    border-width: 4px;
+    border-radius: 13px;
+    margin-left: 35%;
+    margin-right: 35%;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+.check{
+    margin-left: 35%;
+}
+
+.new{
+    
+    padding-left: 35%;
+}
+/* #heading{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-style: oblique;
+} */
